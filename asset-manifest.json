@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Charities/static/css/main.9bcdd499.chunk.css",
+    "main.js": "/Charities/static/js/main.57feae06.chunk.js",
+    "main.js.map": "/Charities/static/js/main.57feae06.chunk.js.map",
+    "runtime-main.js": "/Charities/static/js/runtime-main.05bc9498.js",
+    "runtime-main.js.map": "/Charities/static/js/runtime-main.05bc9498.js.map",
+    "static/js/2.ea24aa92.chunk.js": "/Charities/static/js/2.ea24aa92.chunk.js",
+    "static/js/2.ea24aa92.chunk.js.map": "/Charities/static/js/2.ea24aa92.chunk.js.map",
+    "static/js/3.916ed1bd.chunk.js": "/Charities/static/js/3.916ed1bd.chunk.js",
+    "static/js/3.916ed1bd.chunk.js.map": "/Charities/static/js/3.916ed1bd.chunk.js.map",
+    "index.html": "/Charities/index.html",
+    "static/css/main.9bcdd499.chunk.css.map": "/Charities/static/css/main.9bcdd499.chunk.css.map",
+    "static/js/2.ea24aa92.chunk.js.LICENSE.txt": "/Charities/static/js/2.ea24aa92.chunk.js.LICENSE.txt",
+    "static/media/charity.5a545d4b.jpg": "/Charities/static/media/charity.5a545d4b.jpg",
+    "static/media/donate.a32192ca.jpg": "/Charities/static/media/donate.a32192ca.jpg",
+    "static/media/workflow.919eaa3d.jpg": "/Charities/static/media/workflow.919eaa3d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05bc9498.js",
+    "static/js/2.ea24aa92.chunk.js",
+    "static/css/main.9bcdd499.chunk.css",
+    "static/js/main.57feae06.chunk.js"
+  ]
+}
